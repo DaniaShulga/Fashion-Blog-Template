@@ -142,14 +142,9 @@ body {
   margin: 0 auto;
 }
 
-.logo {
-  margin-left: 80px;
-}
-
 .nav {
   display: flex;
   align-items: center;
-  margin-right: 80px;
   &__item {
     margin-left: 30px;
     &:first-child {
