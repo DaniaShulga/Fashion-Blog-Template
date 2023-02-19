@@ -160,21 +160,12 @@ body {
   }
 }
 
-.banner {
-  position: relative;
-}
-
-
-.text_for_banner{
-  position: absolute;
-  bottom: 42px;
-  left: 72px;
-}
-
 .text_for_banner {
-  width: 1170px;
+  position: absolute;
   margin: 0 auto;
-  padding-top: 485px;
+  left: 88px;
+  top: 370px;
+  z-index: 10;
   color: $white;
 }
 
