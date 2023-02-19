@@ -162,15 +162,19 @@ body {
 }
 
 .banner {
-  color: #171717;
+  position: relative;
 }
 
 .text_for_banner {
   position: absolute;
+  bottom: 42px;
+  left: 72px;
+}
+
+.text_for_banner {
+  width: 1170px;
   margin: 0 auto;
-  left: 88px;
-  top: 370px;
-  z-index: 10;
+  padding-top: 485px;
   color: #FFFFFF;
 }
 
